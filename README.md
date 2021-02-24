@@ -46,8 +46,7 @@ When you complete this setup you will be able to:
 
 - 2-3 rasp Pi 4 -or- 3 units
 - 3- 64GB to 128GB+ memory cards
--
-## 3 - 12+ Inch Micro USB Cable Combo Left &amp; Right Angle
+- 3 - 12+ Inch Micro USB Cable Combo Left &amp; Right Angle
 - 3-4 2TB++ external SSD or HDD drives for persistence
 - Power cables for SSD or HDD units
 
