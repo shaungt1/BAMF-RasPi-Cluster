@@ -8,7 +8,24 @@
 
 **F - FileServer /FileServer**
 
+<hr/>
+
 Welcome to the full Instructional setup of the Ultimate Dev Creator rasp PI Headless BAMF Battlestation multi server cluster We are launching 5+ servers and several utilities: for 2 purposes **HOME NETWORK &amp; PUBLIC ACCESS** Here are the servers and specs:
+
+## **Mission Objective:**
+
+When you complete this setup you will be able to:
+
+1. Cluster 2-3 raspi devices for ultimate processing power
+2. Secure NAS server for storing my media content on my private network
+3. Act as a media server to access media on all my devices on my private network
+4. Access Nextcloud through private network
+5. Home media server using Plex, Emby, and Kodi
+6. A home network Development -lab
+7. A self hosting platform (web, IoT, Mobile…)
+8. Live streaming platform with video storage server
+9. Prive SMTP Email Server
+10. Access content across all devices in home anywhere there is a web connection
 
 **HOME NETWORK:** (Only accessible through the home network)
 
@@ -69,20 +86,30 @@ I have gone through the pain of installing and setting these systems up for both
 20. Setting up domain names
 21. Adding a SMTP /POP Email Server
 
-## **Mission Objective:**
+**File Work Flow:**
 
-When you complete this setup you will be able to:
+ReadMe -------
+Project
+├── project_files
+│   └── 3d files
+│   └── image_files
+├── Getting_Started
+│   └── Installing_ras_OS
+│   └── ISeting static IP
+│   └── setting up NAS file server
+│   └── setting up NAS nextcloud server
+│   └── setting up media server (Plex, Kodi, Emby)
+│              └── testing media server
+│   └── setting up development envorment
+│              └── accessing Local host
+│              └── Accessing SSH
+│   └── setting up NGINX proxy manger
+│   └── Setting up envirmental varibles
+│   └── Setting up DNS and domains
+│   └── Setting up email server
+│   └── Testing
 
-1. Cluster 2-3 raspi devices for ultimate processing power
-2. Secure NAS server for storing my media content on my private network
-3. Act as a media server to access media on all my devices on my private network
-4. Access Nextcloud through private network
-5. Home media server using Plex, Emby, and Kodi
-6. A home network Development -lab
-7. A self hosting platform (web, IoT, Mobile…)
-8. Live streaming platform with video storage server
-9. Prive SMTP Email Server
-10. Access content across all devices in home anywhere there is a web connection
+<hr/>
 
 ## **Files &amp; Resources:**
 
