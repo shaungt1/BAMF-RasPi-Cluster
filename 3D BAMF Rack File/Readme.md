@@ -68,13 +68,12 @@ Replace the**machine disallowed_areas** array to an empty array within the objec
 
 
 **Before:** 
-![Before edit](/ANIMATION/img/before.png)
-Format: ![BAMF Rack Centre](https://devskywalker.com) 
+![Before edit](https://github.com/shaungt1/rasp-Pi-Dev-Creator-Battlestation/blob/main/3D%20BAMF%20Rack%20File/ANIMATION/img/before.png)
+
 
 
 **After:** 
-![After edit](/ANIMATION/img/after.png)
-Format: ![BAMF Rack Centre](https://devskywalker.com)
+![After edit](https://github.com/shaungt1/rasp-Pi-Dev-Creator-Battlestation/blob/main/3D%20BAMF%20Rack%20File/ANIMATION/img/after.png)
 
 This is to give you the full bed print area of 220mm and not get stuck with the limitations Cura and other 3D printers puts on your printer. You can apply this change to any *def.json* file to match your printer. 
 
