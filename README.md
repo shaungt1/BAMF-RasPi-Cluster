@@ -1,4 +1,5 @@
-# Ultimate Dev Creator Rasp Pi BAMF Battlestation Multi Server Cluster
+# BAMF: Multi-node Multi-server Home Lab Media Station
+## Ultimate Dev Creator Rasp Pi BAMF Battlestation Multi Server Cluster
 
 **B - Broadband / Bad**
 
