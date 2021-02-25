@@ -16,7 +16,7 @@ Welcome to the full Instructional setup of the Ultimate Dev Creator rasp PI Head
 
 When you complete this setup you will be able to:
 
-1. Cluster 2-3 raspi devices for ultimate processing power
+1. Cluster 2-8 raspi devices for ultimate processing power
 2. Secure NAS server for storing my media content on my private network
 3. Act as a media server to access media on all my devices on my private network
 4. Access Nextcloud through private network
