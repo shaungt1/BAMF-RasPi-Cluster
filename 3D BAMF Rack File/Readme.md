@@ -51,7 +51,7 @@ The entire unit can hold 1 HDD rack  (is 35% taller than SSD)  and 2 SSD racks o
 
 Simply print 2 RASPI racks and 1 TOP-RASPI rack. The top RASPI rack has female ends on the bottom and top so it can adapt to the RASPI rack below it and  use 4 3/4 screws to tie the lids assembly together. 
 
-### CPU RGB COOLING
+#### CPU RGB COOLING
 
 After printing the above parts and acquiring the 2-120mm RGB CPU fans you will need to print the  **CE3_RAILS.gcode** file this is the tower railing system that uses 3/4+ inch screws to mount the fan to the railing system and to the RASPI and SSD or HDD cases.  
 
@@ -62,7 +62,7 @@ Print these parts last!!!
 There is an outer shell housing is in 2 parts labeled that must be printed separately if you are using and ender 3 or ender 3 pro you will need to find the "creality_ender3.def.json file 
 
 *Windows:*
-in path:  Program Files / ultimaker Cura 4.6(or whatever version..) /resources . definitions... 
+in path:  **Program Files / ultimaker Cura 4.6(or whatever version..) /resources . definitions...** 
 
 Replace the**machine disallowed_areas** array to an empty array within the object it should look like this when you are done: 
 
