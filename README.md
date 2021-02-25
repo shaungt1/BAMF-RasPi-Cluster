@@ -109,6 +109,12 @@ Project
 │   └── Setting up email server
 │   └── Testing
 
+## Architecture 
+
+![arch!](https://github.com/shaungt1/rasp-Pi-Dev-Creator-Battlestation/blob/main/3D%20BAMF%20Rack%20File/ANIMATION/img/BAMF%20Multi-node-mutli%20server%20Home%20lab%20media%20station.png)
+
+
+
 <hr/>
 
 ## **Files &amp; Resources:**
